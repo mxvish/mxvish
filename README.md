@@ -1,6 +1,8 @@
-### Hi!
+### Hi!👋
 
 <!--![Kenta Oshima's Github stats](https://github-readme-stats.vercel.app/api?username=kenteroshima&theme=highcontrast&show_icons=true&count_private=true)-->
+<img src='https://source.unsplash.com/1600x900/?hope' width=480 height=270>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenteroshima&layout=compact&hide=html&langs_count=10)
 <!--[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kenteroshima&repo=kenteroshima&show_owner=true)](https://github.com/kenteroshima/kenteroshima)-->
  - [HackerRank](https://www.hackerrank.com/kenteroshima)

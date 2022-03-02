@@ -7,4 +7,4 @@
 ## External links
 - [HackerRank](https://www.hackerrank.com/kenteroshima)
 - [Keybr](https://www.keybr.com/profile/954q754)
-- [stackoverflow](https://stackoverflow.com/users/14981276/kenta)
+- [stackoverflow](https://stackoverflow.com/users/14981276)

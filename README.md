@@ -5,7 +5,6 @@
 <p align="center"> <a href="https://github.com/kenteroshima"><img src="https://github-profile-trophy.vercel.app/?username=kenteroshima&margin-w=5&theme=radical" alt="kenteroshima" /></a> </p>-->
 
 ## Portfolio
-### Hyperlinks jump to another page
 
 Period | Company | Job Category
 -- | -- | --

@@ -1,6 +1,11 @@
 ### Hi!😄
 <!--![](https://visitor-badge.glitch.me/badge?page_id=kenteroshima.kenteroshima)-->
 
+## Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenteroshima&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)
 <!-- <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/kenteroshima"><img src="https://github-profile-trophy.vercel.app/?username=kenteroshima&margin-w=5&theme=radical" alt="kenteroshima" /></a> </p>-->

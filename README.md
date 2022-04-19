@@ -4,6 +4,10 @@
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  30,550 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 8,927 tasks so far           
+⏳  Longest streak is 572 days
 <!-- TODO-IST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenteroshima&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)

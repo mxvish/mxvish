@@ -1,4 +1,5 @@
 ### Hi!😄
+![](https://visitor-badge.glitch.me/badge?page_id=kenteroshima.kenteroshima)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenteroshima&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)
 <!-- <summary><b>🏆 Github Achievements</b></summary>

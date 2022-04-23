@@ -4,10 +4,10 @@
 ## <a href="https://todoist.com">Todoist</a> Stats
 
 <!-- TODO-IST:START -->
-🏆  30,653 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 8,955 tasks so far           
-⏳  Longest streak is 575 days
+🏆  30,659 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 8,956 tasks so far           
+⏳  Longest streak is 576 days
 <!-- TODO-IST:END -->
 
 <!-- <summary><b>🏆 Github Achievements</b></summary>

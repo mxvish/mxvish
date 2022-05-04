@@ -16,7 +16,7 @@
 
 Period | Company | Location | Category | Employment Type
 -- | -- | -- | -- | --
-Apr. 2022 ~  now | <a href="https://gruff.co.jp/">Gruff Inc.</a> | Japan | <a href="https://hrmos.co/pages/gruff/jobs/1563131141095116814">Artificial Intelligence, Data Scientist </a> | Long Term Internship 
+Mar. 2022 ~  now | <a href="https://gruff.co.jp/">Gruff Inc.</a> | Japan | <a href="https://hrmos.co/pages/gruff/jobs/1563131141095116814">Artificial Intelligence, Data Scientist </a> | Long Term Internship 
 
 ## External Links
 - [HackerRank](https://www.hackerrank.com/kenteroshima)

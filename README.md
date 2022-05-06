@@ -1,4 +1,4 @@
-### Hi!😄
+### Hi!
 
 ## <a href="https://todoist.com">Todoist</a> Stats
 

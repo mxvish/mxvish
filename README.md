@@ -1,5 +1,7 @@
 ### Hi!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxvish&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)
+
 ## <a href="https://todoist.com">Todoist</a> Stats
 
 <!-- TODO-IST:START -->
@@ -22,9 +24,6 @@ Mar. 2022 ~  now | <a href="https://gruff.co.jp/">Gruff Inc.</a> | Japan | <a hr
 - [HackerRank](https://www.hackerrank.com/kenteroshima)
 - [Keybr](https://www.keybr.com/profile/954q754)
 - [stackoverflow](https://stackoverflow.com/users/14981276)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxvish&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)
 
 <!--<details>
   <summary></summary>

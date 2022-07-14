@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxvish&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)
 
-## <a href="https://todoist.com">Todoist</a> Stats
+## [Todoist](https://todoist.com) Stats
 
 <!-- TODO-IST:START -->
 🏆  32,998 Karma Points           
@@ -11,14 +11,11 @@
 ⏳  Longest streak is 657 days
 <!-- TODO-IST:END -->
 
-<!-- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/mxvish"><img src="https://github-profile-trophy.vercel.app/?username=mxvish&margin-w=5&theme=radical" alt="mxvish" /></a> </p>-->
-
 ## Portfolio
 
 Period | Company | Location | Category | Employment Type
 -- | -- | -- | -- | --
-Mar. 2022 ~  now | <a href="https://gruff.co.jp/">Gruff Inc.</a> | Japan(remote) | <a href="https://01intern.com/job/1493.html">Artificial Intelligence, Data Scientist </a> | Long Term Internship 
+Mar. 2022 ~  now | [Gruff Inc.](https://gruff.co.jp) | Japan(remote) | [Artificial Intelligence, Data Scientist](https://01intern.com/job/1493.html) | Long Term Internship 
 
 ## External Links
 - [HackerRank](https://www.hackerrank.com/kenteroshima)

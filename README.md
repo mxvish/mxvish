@@ -1,7 +1,3 @@
-### Hi!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxvish&layout=compact&hide=html&langs_count=10&hide_border=true&theme=radical)
-
 ## [Todoist](https://todoist.com) Stats
 
 <!-- TODO-IST:START -->

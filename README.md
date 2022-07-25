@@ -6,12 +6,12 @@
 ✅  Completed 9,746 tasks so far           
 ⏳  Longest streak is 669 days
 <!-- TODO-IST:END -->
-
+<!--
 ## Portfolio
 
 Period | Company | Location | Category | Employment Type
 -- | -- | -- | -- | --
-Mar. 2022 ~  now | [Gruff Inc.](https://gruff.co.jp) | Japan(remote) | [Artificial Intelligence, Data Scientist](https://01intern.com/job/1493.html) | Long Term Internship 
+Mar. 2022 ~  now | [Gruff Inc.](https://gruff.co.jp) | Japan(remote) | [Artificial Intelligence, Data Scientist](https://01intern.com/job/1493.html) | Long Term Internship -->
 
 ## External Links
 - [HackerRank](https://www.hackerrank.com/kenteroshima)

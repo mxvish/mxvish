@@ -1,6 +1,6 @@
 <h3>Hi!👋</h3> 
 
-I'm interested in Linux and Health Informatics.
+I hope you find this repository useful.
 
 <!-- ## [Todoist](https://todoist.com) Stats -->
 

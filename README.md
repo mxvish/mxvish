@@ -4,7 +4,7 @@ I hope you find this repository useful.
 
 <!-- ## [Todoist](https://todoist.com) Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxvish&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mxvish&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css&theme=codeSTACKr)
 
 ## Portfolio
 

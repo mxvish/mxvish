@@ -1,6 +1,6 @@
 <h3>Hi!👋</h3> 
 
-I hope you find this repository useful.
+I hope you find this repository useful 🚀
 
 <!-- ## [Todoist](https://todoist.com) Stats -->
 

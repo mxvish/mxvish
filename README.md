@@ -14,6 +14,9 @@ Period | Company | Location | Category | Employment Type
 -- | -- | -- | -- | --
 Mar. 2022 ~  Jul. 2022 | [Gruff Inc.](https://gruff.co.jp) | Japan(remote) | [Artificial Intelligence, Data Scientist](https://01intern.com/job/1493.html) | Long Term Internship
 
+## Open Badge
+[Open Badge Network Foundation](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/REd1VVV0aDVRUlZINkczREdaL0tsZz09)
+
 ## External Links
 - [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 

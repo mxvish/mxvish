@@ -20,11 +20,3 @@ Mar. 2022 ~  Jul. 2022 | [Gruff Inc.](https://gruff.co.jp) | Japan(remote) | [Ar
 
 ## Open Badge
 [Open Badge Network Foundation](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/REd1VVV0aDVRUlZINkczREdaL0tsZz09)
-
-## External Links
-- [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<!--<details>
-  <summary></summary>
-</details>-->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gvanrossum&theme=dark)](https://git.io/streak-stats) -->

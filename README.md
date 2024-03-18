@@ -1,8 +1,4 @@
-<h3>Hi!👋</h3> 
-
-I hope you find this repository useful 🚀
-
-<!-- ## [Todoist](https://todoist.com) Stats -->
+> If you wish to make an apple pie from scratch, you must first invent the universe. *- Carl Sagan*
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mxvish&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css&theme=codeSTACKr)
 

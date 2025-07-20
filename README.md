@@ -1,3 +1,5 @@
+> Love your Enemies, for they tell you your Faults. *- Benjamin Franklin*
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=mxvish)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxvish&layout=compact&count_private=true&show_icons=true&langs_count=10&hide=html,css)
 
